@@ -1,17 +1,7 @@
-# Hello!
+Very experienced in Python, across a wide interest of fields. Especially automating tasks, trend analysis, excel manipulations, data visualization, core machine learning (regressions, clustering, classification, etc), along with a healthy amount of deep learning.
 
-I'm an experienced Backend Developer with a strong background in .NET Core. With a knack for problem-solving, I bring creative software solutions to meet unique business needs.
+Heavy focus in finance, backtesting strategies, and automated trading. Experienced with Interactive Brokers TWS api. Also, a decent amount of computer vision, and other visually related subjects - like automated art generation, NFTs, GANs, etc.
 
-✔ Programming Languages: C#, JavaScript, HTML, and CSS.
+Have a lot of experience with AWS for data backups, deployment, automation, and utilizing multiple cloud computers at once. AWS EC2, S3, Amplify, DynamoDB, Lambda, etc. Worked heavily with GPT and the openai api.
 
-✔ Frameworks: .Net Core, React, Next.js and TailwindCSS.
-
-✔ CMS: Shopify (Apps, custom themes, system/API integrations), WordPress.
-
-✔ SEO expertise.
-
-✔ Payment Gateways: PayPal, Google Checkout, Stripe, Adyen, Sofort, Custom payment gateways, etc.
-
-✔ Databases: MongoDB, MySQL, PostgreSQL, Sybase, HBase, Microsoft SQL Server, Oracle DB.
-
-✔ DevOps: Docker, Kubernetes, Ansible, Bash, AWS (Lambda, DynamoDB, API Gateway, S3, etc.), Ansible, GitLab
+API knowledge to pull data / work with 3rd party software.
