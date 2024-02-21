@@ -1,12 +1,6 @@
 ![](http://i.imgur.com/y8g506n.png?1)
 
-Very experienced in Python, across a wide interest of fields. Especially automating tasks, trend analysis, excel manipulations, data visualization, core machine learning (regressions, clustering, classification, etc), along with a healthy amount of deep learning.
-
-Heavy focus in finance, backtesting strategies, and automated trading. Experienced with Interactive Brokers TWS api. Also, a decent amount of computer vision, and other visually related subjects - like automated art generation, NFTs, GANs, etc.
-
-Have a lot of experience with AWS for data backups, deployment, automation, and utilizing multiple cloud computers at once. AWS EC2, S3, Amplify, DynamoDB, Lambda, etc. Worked heavily with GPT and the openai api.
-
-API knowledge to pull data / work with 3rd party software.
+I earned a master's degree in information engineering from the University of the Philippines seven years ago and contributed to performance optimization and functional improvement of several projects at three companies.
 
 Fullstack Dev:
 
@@ -15,3 +9,4 @@ Fullstack Dev:
 - Node.js / Django
 - AWS, Google Web Services
 - Payment Gateways
+- SQL (PostgreSQL, MySQL, MongoDB)
