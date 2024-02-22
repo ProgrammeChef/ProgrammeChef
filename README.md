@@ -1,5 +1,5 @@
 # 💫 About Me:
-I earned a master's degree in information engineering from the University of the Philippines seven years ago and contributed to performance optimization and functional improvement of several projects at three companies.<br>I have a special hobby in Python, C, and C++20, and am currently learning Rust. I have extensive experience with JavaScript and TypeScript.
+I earned a master's degree in information engineering from the University of the Philippines seven years ago and contributed to performance optimization and functional improvement of several projects at three companies.<br>I have a special hobby in Python, and am currently learning Rust. I have extensive experience with JavaScript and TypeScript.
 
 
 # 💻 Tech Stack:
